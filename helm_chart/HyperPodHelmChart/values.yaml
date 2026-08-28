@@ -275,7 +275,7 @@ deep-health-check:
   namespace:
     create: true
     name: aws-hyperpod
-    
+
 job-auto-restart:
   enabled: true
 hyperpod-patching:
